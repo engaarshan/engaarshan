@@ -7,9 +7,9 @@ Hi 👋 I'm **Eng Abdallah AARshan** and this is about me.
        - Vue 3
        - React & Nodejs
 - 🌱 I’m currently learning ... Flutter & Microservices
-- 👯 I’m looking to collaborate on Java Spring Boot Projects
-- 🤔 I’m looking for help with Microservices
+- 👯 I’m looking to collaborate on deno
+- 🤔 I’m looking for team work
 - 💬 Ask me about Java Spring
-- 📫 You can each me via: abdullahiaarshan@gmail.com
+- 📫 You can reach me via: abdullahiaarshan@gmail.com
 - ⚡ Thanks for your interest 
 -->
