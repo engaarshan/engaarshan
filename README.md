@@ -1,4 +1,4 @@
-Hi 👋 I'm **Eng Abdallah AARshan** and this is about me.
+Hi 👋 I'm **Eng Abdullah AARshan** and this is about me.
 
 - 🔭 I’m passionate full stack developer who worked with the most advanced tech stack in the world: 
        - Java Spring Boot
